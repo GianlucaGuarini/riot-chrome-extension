@@ -1,0 +1,1 @@
+Simple repo to demonstrate that riotjs chrome extensions can be done with a few lines of code

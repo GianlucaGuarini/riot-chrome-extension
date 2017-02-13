@@ -1,0 +1,18 @@
+{
+  "browser_action": {
+    "default_icon": "icons/icon19.png",
+    "default_popup": "index.html",
+    "default_title": "Awesome riot extension"
+  },
+  "default_locale": "en",
+  "description": "Awesome riot extension",
+  "homepage_url": "http://riotjs.com",
+  "icons": {
+    "128": "icons/icon128.png",
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png"
+  },
+  "manifest_version": 2,
+  "name": "Awesome riot extension",
+  "version": "0.0.1"
+}
